@@ -1,2 +1,2 @@
 # Leetcode_by_Cpp
-Some solutions of Leetcode algorithm problems by myself  
+Some solutions of Leetcode algorithm problems.
