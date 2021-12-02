@@ -46,7 +46,7 @@ int main(){
     // sort(v3.begin(), v3.end());
     // vec_output(v3);
 
-    /*whaz different between set_union and merge*/
+    /*whaz different between set_union(non-) and merge(duplicate)*/
 
     Solution Sol1;
     cout << Sol1.findMedianSortedArrays({1,3},{2}) << endl;
