@@ -98,33 +98,11 @@ public:
         return s.substr((resCenter - resLen) / 2, resLen - 1);
 
     }
-
-
 };
 
 int main()
 {
-
-    // string s = "abcdefg";
-    // int n = s.size();
-    // // cout << n;
-    // // cout << s;
-    // for (int i = 0; i < n;  i++)
-    // {
-    //     for (int j = n; j > i; j--)
-    //     {
-    //     cout << s.substr(i,(j-i)) << endl;
-    //     }
-    // }
-    // cout << s << endl;
-    // cout << s.substr(1,4) << endl;
-    // string copy(s.substr(1,4));
-    // reverse(copy.begin(), copy.end());
-    // cout << copy<< endl;
-
     Solution Sol1;
-    //Sol1.longestPalindrome("cbbd");
-    //Sol1.longestPalindrome("abracadabra");
 
     cout << Sol1.longestPalindrome("apqjpwedlhmvvpexxnntxheeynxmgzwxhnhfdvziuxnuusymklg \
     cacndoyhqkoahnkyaikohwkmnuphipftmzmihvmoetskioeypwjujvvusaxynzxxdugnebsisrtgeujkqkg \
